@@ -1,0 +1,15 @@
+# Packaged builds
+*.zip
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Node (only if you later add tooling)
+node_modules/
+npm-debug.log*
